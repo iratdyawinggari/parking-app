@@ -2,6 +2,11 @@
 
 git clone https://github.com/yourusername/parking-app.git
 
-## run command
+## Run command
+
 cd parking-app
 go run cmd/main.go input.txt
+
+## Unit tests
+
+go test ./interna
