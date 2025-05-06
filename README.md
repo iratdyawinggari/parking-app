@@ -1,6 +1,6 @@
 ## Clone the Repository
 
-git clone https://github.com/yourusername/parking-app.git
+git clone https://github.com/iratdyawinggari/parking-app.git
 
 ## Run command
 
